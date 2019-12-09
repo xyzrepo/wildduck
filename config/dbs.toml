@@ -34,7 +34,7 @@ db=3
 ## Connect to Redis Sentinel instead of single master
 # [redis]
 # name="mymaster"
-# password=""
+password="89100a9128e613ae0c94"
 # db=3
 # [[redis.sentinels]]
 #   host="54.36.85.113"
