@@ -2,7 +2,7 @@
 mongo="mongodb://df63c08fb28057986684ec3c3a07b61c:49b50e178c579b5cc3c47d687e8eb101@leader.mongodb.discoverd:27017/fb605848d712d23e9f339a1746063866"
 
 # redis connection string to connect to a single master (see below for Sentinel example)
-redis="redis://:89100a9128e613ae0c94@leader.redis-a2c583b3-8a1c-4fe2-81fb-029293a769a5.discoverd:6379"
+#redis="redis://:89100a9128e613ae0c94@leader.redis-a2c583b3-8a1c-4fe2-81fb-029293a769a5.discoverd:6379"
 
 # WildDuck allows using different kind of data in different databases
 # If you do not provide a database config value, then main database connection
