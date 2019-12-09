@@ -27,7 +27,7 @@ sender="zone-mta"
 #queued="mail"
 
 [redis]
-host="leader.redis-a2c583b3-8a1c-4fe2-81fb-029293a769a5.discoverd"
+host=":89100a9128e613ae0c94@leader.redis-a2c583b3-8a1c-4fe2-81fb-029293a769a5.discoverd"
 port=6379
 db=3
 
